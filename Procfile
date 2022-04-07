@@ -1,1 +1,1 @@
-worker: python bot/main.py
+web: vedor/bin/heroku-php-apache bot/
